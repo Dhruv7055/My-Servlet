@@ -4,3 +4,15 @@
 0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:11:28 +0530] "GET /My_Servlet/ HTTP/1.1" 200 57
 0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:11:28 +0530] "GET /favicon.ico HTTP/1.1" 404 683
 0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:11:28 +0530] "GET /favicon.ico HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:23:36 +0530] "GET /My_Servlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:23:36 +0530] "GET /My_Servlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:23:37 +0530] "GET /My_Servlet/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:23:37 +0530] "GET /My_Servlet/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:23:54 +0530] "GET /My_Servlet/Login.html HTTP/1.1" 200 333
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:24:12 +0530] "POST /My_Servlet/LoginServlet HTTP/1.1" 500 64
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:24:35 +0530] "POST /My_Servlet/LoginServlet HTTP/1.1" 500 64
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:24:48 +0530] "POST /My_Servlet/LoginServlet HTTP/1.1" 200 211
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:24:50 +0530] "GET /My_Servlet/login.html HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:25:09 +0530] "GET /My_Servlet/login.html HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:25:13 +0530] "POST /My_Servlet/LoginServlet HTTP/1.1" 200 211
+0:0:0:0:0:0:0:1 - - [28/Feb/2025:23:25:14 +0530] "GET /My_Servlet/Login.html HTTP/1.1" 304 -
